@@ -193,6 +193,7 @@
         <module>arrange-act-assert</module>
     </modules>
 
+	
     <repositories>
         <repository>
             <id>jitpack.io</id>
